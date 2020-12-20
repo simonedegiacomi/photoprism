@@ -61,7 +61,7 @@ require (
 	golang.org/x/sys v0.0.0-20201008063127-280f808b4a53 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/ugjka/go-tz.v2 v2.0.12
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 )
 
