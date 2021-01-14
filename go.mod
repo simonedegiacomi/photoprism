@@ -48,7 +48,7 @@ require (
 	github.com/sevlyar/go-daemon v0.1.5
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.7.0
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/studio-b12/gowebdav v0.0.0-20200929080739-bdacfab94796
 	github.com/tensorflow/tensorflow v1.15.2
 	github.com/tidwall/gjson v1.6.3
