@@ -24,7 +24,7 @@ require (
 	github.com/google/open-location-code/go v0.0.0-20200929001750-55940b489b0e
 	github.com/gorilla/websocket v1.4.2
 	github.com/gosimple/slug v1.9.0
-	github.com/h2non/filetype v1.1.0
+	github.com/h2non/filetype v1.1.1
 	github.com/jinzhu/gorm v1.9.16
 	github.com/jinzhu/inflection v1.0.0
 	github.com/json-iterator/go v1.1.10 // indirect
