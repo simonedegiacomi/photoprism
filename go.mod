@@ -51,8 +51,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/studio-b12/gowebdav v0.0.0-20200929080739-bdacfab94796
 	github.com/tensorflow/tensorflow v1.15.2
-	github.com/tidwall/gjson v1.6.3
-	github.com/tidwall/match v1.0.2 // indirect
+	github.com/tidwall/gjson v1.6.8
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6
 	github.com/urfave/cli v1.22.5
 	golang.org/x/crypto v0.0.0-20201112155050-0c6587e931a9
